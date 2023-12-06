@@ -7,8 +7,8 @@ const Container = styled(Box)(({ theme }) => ({
   justifyContent: 'center',
   alignItems: 'flex-start',
   height: '100%',
-  margin: theme.spacing(2), 
-  marginTop: `-${theme.spacing(3)}`, 
+  margin: '1rem',
+  marginTop: '-1.5rem',
   [theme.breakpoints.down("sm")]: {
     margin: theme.spacing(1), 
     marginTop: `-${theme.spacing(1)}`, 
