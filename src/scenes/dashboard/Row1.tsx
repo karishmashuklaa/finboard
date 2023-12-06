@@ -42,13 +42,14 @@ const Row1 = () => {
               sx={{
                 height: '10px',
                 borderRadius: '10px',
-                width: '350px',
+                width: '80%', 
                 '& .MuiLinearProgress-bar': {
                   borderRadius: '10px',
                   backgroundColor: palette.primary.main,
                 },
               }}
             />
+
             <p>
               50% of $10,000,000 raised
             </p>
