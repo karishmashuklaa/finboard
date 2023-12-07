@@ -12,8 +12,8 @@ View it here: https://finboard-bay.vercel.app/
 
 ### Features
 - [x] Responsive
-- [ ] Filter Transactions by Date, Type, Amount and Status
-- [ ] Charts and Graphs for Data Visualization
-- [ ] Consitent UI Theme
-- [ ] Data Interaction (Company Details)
-- [ ] State Management
+- [x] Filter Transactions by Date, Type, Amount and Status
+- [x] Charts and Graphs for Data Visualization
+- [x] Consitent UI Theme
+- [x] Data Interaction (Company Details)
+- [x] State Management
