@@ -7,8 +7,8 @@ const FlexBetween = styled(Box)(({ theme }) => ({
   alignItems: 'center',
 
   [theme.breakpoints.down("sm")]: {
-    flexDirection: 'column',
-    textAlign: 'center',
+    flexDirection: 'row',
+    marginTop: '-0.2rem',
   },
 }));
 
