@@ -1,6 +1,8 @@
 # finboard
 
-Simple, mini financial dashboard.
+Simple, mini financial dashboard. 
+
+View it here: https://finboard-bay.vercel.app/
 
 ### Local Setup
 
